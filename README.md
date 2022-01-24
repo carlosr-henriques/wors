@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/48866075/150712435-edb9e0c1-2c16-48a2-87a7-b4e5ab96ae49.png)
+
 <h1 align="center">Hi 👋, I'm Carlos Roberto</h1>
 <h3 align="center">I'm a Computer Science student and I'm a Systems Assistant. I'm studying for myself to make a Data Scientist.</h3>
 
